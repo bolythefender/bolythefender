@@ -18,7 +18,7 @@ Below's a quick summary of my skills, background and contact information.
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## Projects
-- [Mintra]([https://www.mintra.ai/]) - The next generation NFT ecosystem launched on the Pulse Chain network which includes Marketplace, Launchpad, and Staking features. 
+- [Mintra](https://www.mintra.ai/) - The next generation NFT ecosystem launched on the Pulse Chain network which includes Marketplace, Launchpad, and Staking features. 
 - [Primer Dashboard](https://dashboard.primer.io/) - A solution that helps users configure the payment process with various payment systems like Stripe, PayPal, Klarna, Coinbase, Braintree, and others.
 - [TreeScribe](https://app.treescribe.com/) - An application that helps to visualize the decision tree for a specific document, get the preview of a document, configure the definitions library and create templates.
 
